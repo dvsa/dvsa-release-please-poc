@@ -1,0 +1,10 @@
+{
+  "packages": {
+    ".": {
+      "changelog-path": "CHANGELOG-PRERELEASE.md",
+      "release-type": "simple",
+      "draft": false,
+      "prerelease": true
+    }
+  }
+}
