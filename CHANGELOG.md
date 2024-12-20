@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0-rc1](https://github.com/dvsa/dvsa-release-please-poc/compare/v1.1.0-rc1...v1.2.0-rc1) (2024-12-20)
+
+
+### Features
+
+* adding a file to the prerelease branch directly ([4d6f7a9](https://github.com/dvsa/dvsa-release-please-poc/commit/4d6f7a9cc11973cb998dc53bdbbd29ab64d74302))
+* ignore ([20c9d24](https://github.com/dvsa/dvsa-release-please-poc/commit/20c9d24d2713f903278ac6c51ad8a8c10acea92b))
+* setting draft release to true for prerelease branch ([4a9f64c](https://github.com/dvsa/dvsa-release-please-poc/commit/4a9f64c1ebf86330352f3c4bdf439fb3e850d051))
+
 ## [1.1.0-rc1](https://github.com/dvsa/dvsa-release-please-poc/compare/v1.0.0...v1.1.0-rc1) (2024-12-20)
 
 
