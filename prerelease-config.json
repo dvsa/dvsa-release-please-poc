@@ -3,7 +3,7 @@
     ".": {
       "changelog-path": "CHANGELOG-PRERELEASE.md",
       "release-type": "simple",
-      "draft": false,
+      "draft": true,
       "prerelease": true
     }
   }
