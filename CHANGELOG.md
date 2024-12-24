@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.1-rc1](https://github.com/dvsa/dvsa-release-please-poc/compare/v1.0.0...v1.2.1-rc1) (2024-12-24)
+
+
+### Features
+
+* new file to trigger new rp pr ([dca0224](https://github.com/dvsa/dvsa-release-please-poc/commit/dca022444318f5b998b42869c1a3034759fda47f))
+
+
+### Miscellaneous Chores
+
+* release v1.2.1-rc1 ([9d4bcc3](https://github.com/dvsa/dvsa-release-please-poc/commit/9d4bcc3c57deadbd78a2d212399dc820057ffc72))
+
 ## 1.0.0 (2024-12-20)
 
 
