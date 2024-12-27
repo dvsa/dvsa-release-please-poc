@@ -36,15 +36,6 @@ jobs:
         with:
           target-branch: ${{ github.ref_name }}
 
-      - name: Create Release Asset
-        if: ${{ steps.release.outputs.release_created }}
-        run: |
-          RELEASE_TAG=${{ steps.release.outputs.tag_name }}
-          git archive --format=zip --output="${RELEASE_TAG}.zip" HEAD
-          gh release upload ${RELEASE_TAG} "${RELEASE_TAG}.zip" --clobber
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Cleanup
         if: always()
         run: |
