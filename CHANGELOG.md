@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.0](https://github.com/dvsa/dvsa-release-please-poc/compare/v1.0.0...v1.1.0) (2024-12-30)
+
+
+### Features
+
+* diagrams to illustrate suggested workflow ([4002452](https://github.com/dvsa/dvsa-release-please-poc/commit/4002452e406379728eac3c252cf15d706f281091))
+* helper scripts ([9295456](https://github.com/dvsa/dvsa-release-please-poc/commit/9295456afbc3b079cee73639b913ecbaa75e96cf))
+* new file to trigger new rp pr ([dca0224](https://github.com/dvsa/dvsa-release-please-poc/commit/dca022444318f5b998b42869c1a3034759fda47f))
+* workflow changes to use correct ref when merging release-please prs ([0c62aa0](https://github.com/dvsa/dvsa-release-please-poc/commit/0c62aa0363dc34f4d3d4b07ee72a16bcb52b1a87))
+
 ## 1.0.0 (2024-12-20)
 
 
